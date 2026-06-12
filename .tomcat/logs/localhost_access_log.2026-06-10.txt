@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:10:52:30 +0700] "GET /jav101-lab6-LQBAOBAO-cyber HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:10:52:32 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:10:52:33 +0700] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:10:52:39 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/test HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:27:57 +0700] "GET /jav101-lab6-LQBAOBAO-cyber HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:27:59 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:03 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/test HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:05 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=edit&id=BGD HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:06 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=edit&id=IT HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:06 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=edit&id=KD HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:07 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=edit&id=KT HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:07 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=edit&id=NS HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:09 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=delete&id=NS HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:12 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=delete&id=KT HTTP/1.1" 200 3828
+0:0:0:0:0:0:0:1 - - [10/Jun/2026:11:28:14 +0700] "GET /jav101-lab6-LQBAOBAO-cyber/departments?action=delete&id=KD HTTP/1.1" 200 3828
